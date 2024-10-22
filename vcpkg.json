@@ -1,9 +1,7 @@
 {
     "name": "uwebsockets-unreal",
     "version": "0.1",
-    "maintainers": [
-        "Jarod Hayes <jarod@jarodhayes.net>"
-    ],
+    "maintainers": "Jarod Hayes <jarod@jarodhayes.net>",
     "homepage": "https://github.com/jarodhayes/uWebSocketsUnreal",
     "license": "MIT",
     "builtin-baseline": "3207386cc93121b907a8c5498a43b7a312f4f55d",
